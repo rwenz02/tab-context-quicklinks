@@ -110,8 +110,8 @@ The Teams manifest requests only the `identity` permission.
 1. Clone this repository (or download it) and open the sample folder in VS Code:
 
    ```shell
-   git clone https://github.com/pnp/teams-dev-samples.git
-   cd teams-dev-samples/samples/tab-context-quicklinks
+   git clone https://github.com/rwenz02/tab-context-quicklinks.git
+   cd tab-context-quicklinks
    ```
 
 2. Install dependencies:
