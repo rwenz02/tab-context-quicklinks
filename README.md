@@ -1,22 +1,3 @@
----
-page_type: sample
-products:
-- teams
-languages:
-- typescript
-extensions:
-  contentType: samples
-  app_features:
-  - Tab
-  technologies:
-  - React
-  platforms:
-  - Express
-  origin:
-  - Community
-createdDate: 5/27/2026 12:00:00 AM
----
-
 # Teams QuickLinks Tab — Context-Aware Quick Links for Microsoft Teams
 
 ## Summary
