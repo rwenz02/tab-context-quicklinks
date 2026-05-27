@@ -19,7 +19,7 @@
     },
     "description": {
         "short": "Context-aware quick links for your Teams channels and tabs.",
-        "full": "A lightweight Microsoft Teams Tab app that displays context-aware quick links based on the current team and channel. Links are resolved from a static JSON configuration, supporting team-level, channel-level, and default fallback sets. Users can search, pin, and unpin links — all without a backend or database."
+        "full": "A lightweight Microsoft Teams Tab app that displays context-aware quick links based on the current team and channel. Links are resolved from a static JSON configuration, supporting team-level, channel-level, and default fallback sets. Users can search, pin, and unpin links — all without a backend API, database, or Microsoft Graph permissions."
     },
     "accentColor": "#FFFFFF",
     "supportsChannelFeatures": "tier1",
