@@ -5,7 +5,7 @@
     "id": "${{TEAMS_APP_ID}}",
     "developer": {
         "name": "Rick Wenz",
-        "websiteUrl": "https://github.com/rwenz02/TeamsQuickLinks",
+        "websiteUrl": "https://<your-website-url>",
         "privacyUrl": "https://<your-privacy-url>",
         "termsOfUseUrl": "https://<your-terms-of-use-url>"
     },
